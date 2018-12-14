@@ -1,0 +1,11 @@
+C:\Users\richa\Documents\Dojo\Csharp\Tak\obj\Debug\netcoreapp2.0\Tak.csprojAssemblyReference.cache
+C:\Users\richa\Documents\Dojo\Csharp\Tak\obj\Debug\netcoreapp2.0\Tak.csproj.CoreCompileInputs.cache
+C:\Users\richa\Documents\Dojo\Csharp\Tak\obj\Debug\netcoreapp2.0\Tak.AssemblyInfoInputs.cache
+C:\Users\richa\Documents\Dojo\Csharp\Tak\obj\Debug\netcoreapp2.0\Tak.AssemblyInfo.cs
+C:\Users\richa\Documents\Dojo\Csharp\Tak\bin\Debug\netcoreapp2.0\Tak.deps.json
+C:\Users\richa\Documents\Dojo\Csharp\Tak\bin\Debug\netcoreapp2.0\Tak.runtimeconfig.json
+C:\Users\richa\Documents\Dojo\Csharp\Tak\bin\Debug\netcoreapp2.0\Tak.runtimeconfig.dev.json
+C:\Users\richa\Documents\Dojo\Csharp\Tak\bin\Debug\netcoreapp2.0\Tak.dll
+C:\Users\richa\Documents\Dojo\Csharp\Tak\bin\Debug\netcoreapp2.0\Tak.pdb
+C:\Users\richa\Documents\Dojo\Csharp\Tak\obj\Debug\netcoreapp2.0\Tak.dll
+C:\Users\richa\Documents\Dojo\Csharp\Tak\obj\Debug\netcoreapp2.0\Tak.pdb
